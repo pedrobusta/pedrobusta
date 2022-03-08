@@ -1,5 +1,6 @@
 ### Hi there 👋!
-![Dino_non-birthday_version](https://user-images.githubusercontent.com/92451773/157327597-42a199e8-fbd9-456b-842a-48f1ab7c8b15.gif)
+![obojrz5](https://user-images.githubusercontent.com/92451773/157330107-42394f9f-0a73-4549-90a3-0de17d6ccf83.gif)
+
 
 
 <!--
