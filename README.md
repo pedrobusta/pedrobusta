@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋!
 
 ![pixel](https://user-images.githubusercontent.com/92451773/157326918-2cc27579-792a-4390-ac9c-7709231dc028.gif)
+![Dino_non-birthday_version](https://user-images.githubusercontent.com/92451773/157327597-42a199e8-fbd9-456b-842a-48f1ab7c8b15.gif)
+
 
 <!--
 **pedrobusta/pedrobusta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
