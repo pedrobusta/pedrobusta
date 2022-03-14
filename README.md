@@ -1,5 +1,4 @@
 ### Hi there 👋!
-![obojrz5](https://user-images.githubusercontent.com/92451773/157330107-42394f9f-0a73-4549-90a3-0de17d6ccf83.gif)
 
 
 
