@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Pedro</h1>
 <h3 align="center">Soy un estudiante de Ingeniería Informática con muchas ganas de aprender</h3>
 
-- 🌱 Actualmente aprendiendo **Javascript, HTML5 y CSS**
+- 🌱 Aprendiendo de forma autodidacta **Javascript, HTML5 y CSS**
 
 - 📫 Contacto: **pedrobustamanted@gmail.com**
 
